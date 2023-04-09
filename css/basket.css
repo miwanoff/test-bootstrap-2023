@@ -1,0 +1,38 @@
+#wrapper {
+    width: 100%;
+    margin: 10px;
+  }
+  #basket {
+      background-color: #eee;
+      margin-bottom: 20px;
+  }
+  #cart_content {
+    margin-top: 10px;
+    padding: 5px;
+  }
+  .item_box {  
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  .shopping_list {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+  }
+  .shopping_list td,
+  .shopping_list th {
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+  }
+
+  .panel-body img {
+      width:150px;
+  }
+
+  .glyphicon-minus:before, .glyphicon-plus:before{
+    color: #f4511e;
+  }
+
+  .table-hover th {
+    color: #f4511e;
+  }
